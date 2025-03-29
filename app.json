@@ -1,9 +1,9 @@
 
 {
-    "name": "SASI MD SESSION",
+    "name": "𝖬𝖨𝖭𝖴 𝖷𝖬𝖣 SESSION",
     "description": "Web Session Generator",
     "logo": "image url",
-    "repository": "https://github.com/sathsidu99/SASI-MD-SESSION-",
+    "repository": "https://github.com/sathsidu99/MINU-XMD-PAIR",
     "keywords": ["SATHSIDU-AGRESARA"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
