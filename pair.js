@@ -128,7 +128,7 @@ router.get('/', async (req, res) => {
 
 ⭐ *Show Some Love!* Give us a ⭐ on GitHub and support the developer of: 👉 [Sathsidu GitHub Repo](https://github.com/sathsidu99/)  
 
-🚀 _Thanks for choosing BOTNAME — Let the automation begin!_ ✨`;
+🚀 _Thanks for choosing 𝖬𝖨𝖭𝖴 𝖷𝖬𝖣 — Let the automation begin!_ ✨`;
 
                     await Malvin.sendMessage(Malvin.user.id, { text: MALVIN_TEXT }, { quoted: session });
 
